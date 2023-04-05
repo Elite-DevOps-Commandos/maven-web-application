@@ -30,7 +30,7 @@ node{
 
 Build is done.
 
-LANDMARKTECH''', recipientProviders: [developers(), contributor(), upstreamDevelopers()], subject: 'Build Status', to: 'wal2real@gmail.com'
+DevOps Commandos''', recipientProviders: [developers(), contributor(), upstreamDevelopers()], subject: 'Build Status', to: 'wal2real@gmail.com'
   }
  */  
 }
